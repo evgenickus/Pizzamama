@@ -1,1 +1,8 @@
-__pycache__/*
+main/__pycache__/*
+main/migrations/__pycache__/*
+
+menu/__pycache__/*
+menu/migrations/__pycache__/*
+
+pizzamama/__pycache__/*
+
